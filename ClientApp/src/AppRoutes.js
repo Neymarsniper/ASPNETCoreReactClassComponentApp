@@ -1,5 +1,4 @@
 import { News } from "./components/News";
-//import { News } from "./components/Newss";
 import { NewsItem } from "./components/NewsItem";
 const AppRoutes = [
   {
